@@ -127,7 +127,7 @@ const musics = [
   },
   {
     type: "old",
-    artist: "Erkik Koray",
+    artist: "Erkin Koray",
     song: "Öyle Bir Geçer",
     spotifyLink:
       "https://open.spotify.com/track/0YED4pCW0UsmwAmdSebTUQ?si=cc30b1eb7e954083",
